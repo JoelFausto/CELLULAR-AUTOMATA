@@ -13,8 +13,7 @@ No contexto da **Doença de Chagas**, a transmissão não ocorre diretamente de 
 ## 📁 Estrutura do Projeto
 
 ```
-epidemiologia-chagas/
-```text
+cellular-automata/
 ├── requirements.txt   # Dependências
 ├── sir_model.py       # Classe encapsulada com a lógica e varredura espacial do modelo SIR.
 ├── seic_model.py      # Classe estendida com os estados e regras de atraso (delay) do modelo SEIC.
@@ -49,7 +48,7 @@ python main_simulacao.py
 
 ## 📎 Link Artigo
 
-...
+[Análise Epidemiológica Espacial da Doença de Chagas: Modelos SIR versus SEIC em Ambientes Discretos](https://drive.google.com/file/d/147ZOpxSabpGJ4y34yOGLTkG8U9VODT3t/view?usp=sharing)
 
 ## 📑 Fontes Teóricas
 
